@@ -20,7 +20,7 @@ A scalable and modular **Node.js-based Notification Service** that allows sendin
 | Layer      | Technology       |
 |------------|------------------|
 | Backend    | Node.js, Express |
-| Database   | MySQL            |
+| Database   | MangoDB          |
 | Email API  | Nodemailer       |
 | SMS API    | Twilio           |
 | Optional   | BullMQ / Redis or RabbitMQ |
